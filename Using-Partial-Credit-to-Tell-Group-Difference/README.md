@@ -18,3 +18,6 @@ run "main_interleave_power_curve.m" to compare high/low level groups with partia
 <p>
 run "main_interleave_null.m" to compare no-difference groups with partial credit and binary credit in the experimental data.
 </p>
+<p>
+run "predict_half_XXX_with_half_XXX.m" to compare the predictablity of partial credit and binary credit. This is mainly to validate that partial credit is also a valid measurement of students' learning as binary credit.
+</p>

@@ -1,4 +1,4 @@
-% Preprocess data and generate covariates for the dataset of ANDES physics data from KDD cup 2010. 
+% Preprocess data and generate covariates for the dataset of Cognitive Tutor Algebra data from KDD cup 2010. 
 
 % Input: csv files of assistments skill builders
 % Output: Organized MAT file with student id, skill id, correct and

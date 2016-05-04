@@ -10,3 +10,6 @@ run "mainSimple.m" to get predictablity of traditional model without opportunity
 <p>
 run "mainSimpleWithOpp.m" to get predictablity of traditional model with opportunity count as features.
 </p>
+<p>
+run "KTmain15.m" to get predictablity of knowledge tracing model.
+</p>
